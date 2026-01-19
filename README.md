@@ -17,7 +17,8 @@ which stockfish
 
 # Use the result from `which stockfish` for `STOCKFISH_BIN` in the notebook.
 ```
-GRG_chessXAI_genetic.ipynb is used to run a genetic algorithm to generate weights used in the explanations. (I wouldn't run this unless you have a bunch of cores free and are prepared to wait a good long while.)
 
-GRG_chessXAI_player.ipynb is used to run the player and explain moves.
+```GRG_chessXAI_genetic.ipynb``` is used to run a genetic algorithm to generate weights used in the explanations. (I wouldn't run this unless you have a bunch of cores free and are prepared to wait a good long while.)
+
+```GRG_chessXAI_player.ipynb``` is used to run the player and explain moves.
 
